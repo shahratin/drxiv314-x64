@@ -1,6 +1,7 @@
 #ZTE AX226
 
 This is driver for linux system patched for ZTE ax226 usb modem
+
 This drivers is working on i386 and x86_64 systems.
 
 ###installation
