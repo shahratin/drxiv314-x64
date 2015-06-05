@@ -16,14 +16,10 @@ If you want to enable your device during system boot add 'drxvi314 ' to the end 
 
 and configure you device in file  /etc/network/interfaces like this
 
-###
-
 auto eth1
 
 iface eth1 inet manual
 
 pre-up /etc/init.d/wimax start
-
-###
 
 where eth1 - your device 
